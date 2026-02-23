@@ -19,7 +19,7 @@ if not TOKEN:
     sys.exit(1)
 
 # ID твоей группы (узнай через @getidsbot или в логах после /start в группе)
-ALLOWED_GROUP_ID = -100XXXXXXXXXX   # ← ВСТАВЬ СЮДА ID СВОЕЙ ГРУППЫ !!!
+ALLOWED_GROUP_ID = -4894395021   # ← ВСТАВЬ СЮДА ID СВОЕЙ ГРУППЫ !!!
 
 bot = Bot(token=TOKEN)
 dp = Dispatcher()
